@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+python-multipart
+streamlit
+requests
+langchain
+langchain-text-splitters
+langchain-google-genai
+langchain-community
+faiss-cpu
+python-dotenv
+scikit-learn
+pandas
+joblib
+torch
+torchvision
