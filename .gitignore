@@ -1,0 +1,25 @@
+# Environment variables (contains your real API key - never commit this)
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Trained model files (large binary files - regenerate with the training scripts instead)
+back_end/models/
+back_end/data/faiss_index/
+data/faiss_index/
+
+# Database (contains your local test data)
+data/claimiq.db
+data/uploads/
+
+# OS/editor files
+.DS_Store
+.vscode/
+*.code-workspace
+
+# Large datasets (link to them in README instead of committing)
+data/fraud_data/*.csv
+data/Car Damage Severity Dataset/
