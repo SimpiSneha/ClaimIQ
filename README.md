@@ -109,6 +109,15 @@ Python, FastAPI, SQLite, Streamlit, LangChain, Google Gemini API, FAISS, Scikit-
 
 ---
 
+
+## 🎥 Demo
+
+![ClaimIQ Demo](claim_iq_project.gif)
+
+
+
+----
+
 ## 🚀 Setup & Run
 
 ```bash
